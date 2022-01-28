@@ -1,0 +1,63 @@
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.exe
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.deps.json
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.runtimeconfig.json
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.dll
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.pdb
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\Irony.dll
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\_OLC2_Proyecto2.Form1.resources
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.GenerateResource.cache
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.AssemblyInfo.cs
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.CopyComplete
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.dll
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.pdb
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.genruntimeconfig.cache
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\ScintillaNET.dll
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Alexander\Documents\OLC2\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\_OLC2_Proyecto2.Properties.Resources.resources
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.exe
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.deps.json
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.runtimeconfig.json
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.runtimeconfig.dev.json
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.dll
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.pdb
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\ScintillaNET.dll
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\Irony.dll
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\_OLC2_Proyecto2.Form1.resources
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\_OLC2_Proyecto2.Properties.Resources.resources
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.GenerateResource.cache
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.AssemblyInfo.cs
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.CopyComplete
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.dll
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.pdb
+C:\Users\Alexander\Downloads\proyecto1_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.genruntimeconfig.cache
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\_OLC2_Proyecto2.Form1.resources
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\_OLC2_Proyecto2.Properties.Resources.resources
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.GenerateResource.cache
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.AssemblyInfo.cs
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.dll
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.pdb
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.exe
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.deps.json
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.runtimeconfig.json
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.dll
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\[OLC2]Proyecto2.pdb
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\ScintillaNET.dll
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\bin\Debug\netcoreapp3.1\Irony.dll
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.csproj.CopyComplete
+C:\Users\Alexander\Documents\OLC2\Proyecto 2\Project2_compi_pascal\[OLC2]Proyecto2\[OLC2]Proyecto2\obj\Debug\netcoreapp3.1\[OLC2]Proyecto2.genruntimeconfig.cache
